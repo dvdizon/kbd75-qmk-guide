@@ -2,6 +2,8 @@
 
 This guide was originally posted on [reddit](https://www.reddit.com/r/MechanicalKeyboards/comments/6hl837/kbd75_r3_qmk_howto_guide/), but it was archived and I wanted to keep it alive somewhere else just incase it got deleted.
 
+--------
+
 If this is your first time reading this, I've had to add more information because people have gotten good information from the comments of this thread.
 
 **DISCLAIMER**: I am personally not a qmk_firmware expert, other members of the community are more experienced than I am and I have not encountered all the errors or issues. If you are encounting issues I suggest consulting with the provider of your hardware and/or the #kb-help channel on the /r/mechanicalkeyboards discord. 
