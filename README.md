@@ -120,14 +120,6 @@ So if anyone has the same problem and finds this in the future, KC_NUBS (listed 
 When you got your keyboard, you got a piece of paper that said, "Program web link http://qmkeyboard.cn/".
 At the bottom of the page and the piece of paper you saw `QMK Firmware flasher download 百度云链接，github链接`, with an arrow to the github link. **Ignore this and see instructions below**
 
-~~The first link, I couldn't get to work/download, the second one was a link to the releases page of the official QMK project.~~
-
-~~However when I went to the github page I mistakenly just downloaded the latest version. Installing the newest version (as of 6/16/17, its v.0.5.2) did not match the instructions for this keyboard that I found in the Google Doc.~~
-
-~~**Install an older version of qmk flasher**, the version where it was still called qmk firmware flasher: https://github.com/qmk/qmk_flasher/releases/tag/v0.5.0~~
-
-##### 7/5/17 Update: 
-
 **Install the latest version of [QMK Flasher 0.5.2](https://github.com/qmk/qmk_flasher/releases/tag/0.5.2)**, `QMK Firmware  Flasher` was been renamed as `QMK Flasher`. After you install this, when you open it you may get this error in the app ([screenshot](http://imgur.com/kSijL61)): `Could not run dfu-programmer! Have you installed the driver? Try using qmk_driver_installer to fix it.`
 
 If you see that error message, just continue to the **"Bootloader" Mode and Installing drivers** section below.
