@@ -57,6 +57,8 @@ Between http://qmkeyboard.cn/, the piece of paper that came with the keyboard, I
 
 If your keyboard came pre-assembled as mine, the second key on the top right should actually be your FN (function) key. This key: http://imgur.com/SjdRgNf
 
+Alternatively, the FN key may be between your right-alt and right-ctrl key (e.g for layout 1). Consult the KBDfans product description if you cannot locate your FN key.
+
 So when you first go to http://qmkeyboard.cn, and you have not edited your layout before, you will want to choose the `KBD75` layout preset. By default, the key which came in my keyboard as the "FN" key is actually the Scroll Lock key or `SLCK`.
 
 **Note:** The "FN" key is actually just a modifier key to let you access `Layer 1`. Notice that the main layer is actually `Layer 0` because we programmers start numbering things starting with 0 ;)
