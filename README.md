@@ -126,6 +126,8 @@ At the bottom of the page and the piece of paper you saw `QMK Firmware flasher d
 
 If you see that error message, just continue to the **"Bootloader" Mode and Installing drivers** section below.
 
+The QMK Flasher has be deprecated - use the [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases) instead!
+
 ----------
 
 ### "Bootloader" Mode and Installing drivers
