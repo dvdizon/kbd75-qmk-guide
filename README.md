@@ -10,7 +10,7 @@ If this is your first time reading this, I've had to add more information becaus
 
 There two sections:
 
-- Original Post with configuringkd!!?!j?f your KBD75 with QMK
+- Original Post with configuring your KBD75 with QMK
 - Some information if you think you have a PS2AVR pcb (R1 and R2) instead
 
 If you have any suggestions or corrects, please add a comment below and I will add/edit this post :)
@@ -21,6 +21,7 @@ Updates
 - **6/20/17 UPDATE**: My pull-request for the kbd75 port for the qmk_firmware on the master repo was merged! I will plan to add KBD75 support on kbfirmware.com next!
 - **7/5/17 UPDATE**: My pull-request to qmk firmware builder is still open, qmk.sized.io moved http://kbfirmware.com/ ([see ruiqimao's reddit post](https://www.reddit.com/r/MechanicalKeyboards/comments/6jpvai/news_httpqmksizedio_is_now_httpkbrmaoio/)), and I updated the guide below for using the latest QMK Flasher (v0.5.2).
 - **4/16/18 UPDATE**: Moving the guide to github, since my reddit post was archived.
+- **7/3/20 UPDATE**: Minor typo in README.md
 
 Edits
 -----
